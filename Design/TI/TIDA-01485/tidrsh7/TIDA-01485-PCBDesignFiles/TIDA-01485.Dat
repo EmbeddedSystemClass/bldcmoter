@@ -1,0 +1,54 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|Field=Manufacturer~String~Manufacturer~100|Field=PackageReference~String~PackageReference~100|Field=Value~String~Value~100|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~TIDA-01485.PrjPcb|ReportField=ProjectFullPath~D:\projects\TIDA-01485\documentation\final altium files\Final Database_TIDA-01485-E2_20170801\Final Database_TIDA-01485-E2_20170801\TIDA-01485.PrjPcb|ReportField=Title~BOM (TI Designs format) For Variant [001] of Project [TIDA-01485.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~95|ReportField=ReportTime~7:23:27 PM|ReportField=ReportDate~8/4/2017|ReportField=ReportDateTime~8/4/2017 7:23:27 PM|ReportField=OutputName~BOM (TI Designs format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~001|ReportField=CopyrightYear~2017|ReportField=EVM_orderable~N/A|ReportField=PCB_Layout~Avinash N|ReportField=PCB_Rev~E2|ReportField=PRJ_Customer~Public Release|ReportField=PRJ_Engineer~Manu Balakrishnan|ReportField=PRJ_Number~TIDA-01485|ReportField=PRJ_Title~18V/1kW,  power stage for brushless motor|ReportField=SCH_Rev~E2|ReportField=TechSupport~http://www.ti.com/support|ReportField=TID~01485|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~8/4/2017|ReportField=CurrentTime~7:15:10 PM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~D:\projects\TIDA-01485\documentation\final altium files\Final Database_TIDA-01485-E2_20170801\Final Database_TIDA-01485-E2_20170801\TIDA-01485_CoverSheet.SchDoc|ReportField=DocumentName~TIDA-01485_CoverSheet.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~Manu|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~8/4/2017|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~TIDA-01485.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~5|ReportField=Time~Not shown in title block|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~TIDA-01485.PrjPcb|ReportField=DataSourceFullPath~D:\projects\TIDA-01485\documentation\final altium files\Final Database_TIDA-01485-E2_20170801\Final Database_TIDA-01485-E2_20170801\TIDA-01485.PrjPcb
+1|Fitted|Printed Circuit Board|!PCB1|TIDA-01485|1|Any||
+2|Fitted|CAP, CERM, 0.1 µF, 16 V, +/- 20%, X5R, 0402|C3, C23, C24, C33, C34, C35, C36|885012105016|7|Wurth Elektronik|0402|0.1uF
+3|Fitted|CAP, CERM, 22 µF, 16 V,+/- 10%, X7R, 1210|C5|C3225X7R1C226K250AC|1|TDK|1210|22uF
+4|Fitted|CAP, CERM, 2.2uF, 100V, +/-10%, X7R, 1210|C6|GRM32ER72A225KA35L|1|MuRata|1210|2.2uF
+5|Fitted|CAP, CERM, 0.1 µF, 50 V, +/- 10%, X7R, 0603|C9|06035C104KAT2A|1|AVX|0603|0.1uF
+6|Fitted|CAP, CERM, 4.7 µF, 50 V,+/- 10%, X7S, 0805|C10|GRM21BC71H475KE11K|1|MuRata|0805|4.7uF
+7|Fitted|CAP, CERM, 1 µF, 16 V, +/- 10%, X7R, 0603|C11, C13|C1608X7R1C105K|2|TDK|0603|1uF
+8|Fitted|CAP, CERM, 0.047 µF, 100 V,+/- 10%, X7S, 0603|C12|C1608X7S2A473K080AB|1|TDK|0603|0.047uF
+9|Fitted|CAP ALUM 390UF 20% 50V RADIAL|C14, C15|UHW1H391MPD6|2|Nichicon|10x22|390uF
+10|Fitted|CAP, CERM, 0.1 µF, 100 V, +/- 10%, X7R, 1206|C17|C3216X7R2A104K160AA|1|TDK|1206|0.1uF
+11|Fitted|CAP, CERM, 2.2 µF, 100 V, +/- 10%, X7R, 1210|C18, C19, C22|GRM32ER72A225KA35L|3|MuRata|1210|2.2uF
+12|Fitted|CAP, CERM, 0.47 µF, 16 V, +/- 10%, X7R, 0805|C26|C0805C474K4RACTU|1|Kemet|0805|0.47uF
+13|Fitted|CAP, CERM, 10uF, 16V, +/-20%, X5R, 0805|C27, C29, C31|0805YD106MAT2A|3|AVX|0805|10uF
+14|Fitted|CAP, CERM, 0.1 µF, 16 V, +/- 5%, X7R, 0603|C28, C30, C32|0603YC104JAT2A|3|AVX|0603|0.1uF
+15|Fitted|CAP, CERM, 2200 pF, 50 V, +/- 10%, X7R, 0402|C37|GRM155R71H222KA01D|1|MuRata|0402|2200pF
+16|Fitted|CAP, CERM, 1000 pF, 50 V, +/- 10%, X7R, 0402|C38, C39, C40|885012205061|3|Wurth Elektronik|0402|1000pF
+17|Fitted|CAP, CERM, 3300 pF, 50 V, +/- 10%, X7R, AEC-Q200 Grade 1, 0402|C43, C44, C45|CGA2B2X7R1H332K050BA|3|TDK|0402|3300pF
+18|Fitted|Diode, TVS, Bi, 58 V, SMA|D1|SMAJ58CA|1|Littelfuse|SMA|58V
+19|Fitted|LED RED CLEAR 0603 SMD|D2|150060RS75000|1|Wurth Elektronics Inc|LED_0603|RED
+20|Fitted|LED YELLOW CLEAR 0603 SMD|D3|150060YS75000|1|Wurth Elektronics Inc|LED_0603|YELLOW
+21|Fitted|LED, Green, SMD|D4|150060GS75000|1|Wurth Elektronics Inc|LED_0603|GREEN
+22|Fitted|Diode, Superfast Rectifier, 200 V, 2 A, SMA|D5|ES2DA-13-F|1|Diodes Inc.|SMA|200V
+23|Fitted|Diode, Schottky, 60 V, 1 A, SOD-323F|D6|PMEG6010CEJ,115|1|NXP Semiconductor|SOD-323F|60V
+24|Fitted|MACHINE SCREW PAN PHILLIPS 2-56|H1, H2|NY PMS 256 0025 PH|2|B&F Fastener Supply|Machine Screw Pan Phillips 2-56|
+25|Fitted|HEATSINK 27X27X23MM PIN|H3|904-27-2-23-2-B-0|1|Wakefield-Vette|HEATSINK 27X27X23MM PIN|
+26|Fitted|Thermal Conductive Pad|H4|A15727-00|1|Laird Technologies - Thermal Materials|TPCM 5810 27mmx27mm|
+27|Fitted|Header, 100mil, 3x1, TH|J1|800-10-003-10-001000|1|Mill-Max|Header, 3x1, 100mil, TH|
+28|Fitted|Header, 100mil, 2x1, TH|J2, J6|800-10-002-10-001000|2|Mill-Max|Header, 2x1, 100mil, TH|
+29|Fitted|Header, Male 4-pin, 100mil spacing,|J3|PEC04SAAN|1|Sullins|0.100 inch x 4|PEC04SAAN
+30|Fitted|Header, 100mil, 5x1, TH|J4|800-10-005-10-001000|1|Mill-Max|Header, 5x1, 100mil, TH|
+31|Fitted|Inductor, Drum Core, Ferrite, 120uH, 0.22A, 3.2 ohm, SMD|L1|SDR0302-121KL|1|Bourns|3x2.5x2.8mm|120uH
+32|Fitted|RES, 100 k, 1%, 0.063 W, 0402|R3|CRCW0402100KFKED|1|Vishay-Dale|0402|100k
+33|Fitted|RES, 100, 1%, 0.1 W, 0402|R4, R27, R29, R32, R34, R35, R50, R51, R52, R53, R54, R55|ERJ-2RKF1000X|12|Panasonic|0402|100
+34|Fitted|RES, 0.002, 1%, 3 W, AEC-Q200 Grade 0, 2512|R13, R15|CRE2512-FZ-R002E-3|2|Bourns|2512|0.002
+35|Fitted|RES, 28.0 k, 1%, 0.063 W, 0402|R14|CRCW040228K0FKED|1|Vishay-Dale|0402|28.0k
+36|Fitted|RES, 8.45 k, 1%, 0.063 W, 0402|R20|CRCW04028K45FKED|1|Vishay-Dale|0402|8.45k
+37|Fitted|RES SMD 2M OHM 1% 1/10W 0603|R23|RC0603FR-072ML|1|Yageo|0603|2M
+38|Fitted|RES, 0, 5%, 0.063 W, 0402|R24, R26, R56, R57|CRCW04020000Z0ED|4|Vishay-Dale|0402|0
+39|Fitted|RES, 150 k, 1%, 0.063 W, 0402|R31|CRCW0402150KFKED|1|Vishay-Dale|0402|150k
+40|Fitted|RES, 10.0 k, 1%, 0.063 W, 0402|R33, R36, R42, R45|CRCW040210K0FKED|4|Vishay-Dale|0402|10.0k
+41|Fitted|RES, 3.3, 5%, 0.1 W, 0603|R37|CRCW06033R30JNEA|1|Vishay-Dale|0603|3.3
+42|Fitted|RES, 1.0 k, 5%, 0.1 W, 0603|R38, R40, R41|CRCW06031K00JNEA|3|Vishay-Dale|0603|1.0k
+43|Fitted|RES, 1.00 M, 1%, 0.1 W, 0402|R43, R46|ERJ-2RKF1004X|2|Panasonic|0402|1.00Meg
+44|Fitted|RES, 47.5 k, 1%, 0.063 W, 0402|R44|CRCW040247K5FKED|1|Vishay-Dale|0402|47.5k
+45|Fitted|RES, 3.3 k, 5%, 0.063 W, 0402|R47, R48, R49|CRCW04023K30JNED|3|Vishay-Dale|0402|3.3k
+46|Fitted|Switch, Tactile, SPST, 12 V, SMD|S1|434121025816|1|Wurth Elektronik|SMD, 6x3.9mm|
+47|Fitted|60 V Half-Bridge NexFE Power Block, DMM0022A|U1, U2, U3|CSD88599Q5DC|3|Texas Instruments|DMM0022A|
+48|Fitted|60-V Three-Phase Smart Gate Driver, RGZ0048B|U8|DRV8323RSRGZR|1|Texas Instruments|RGZ0048B|
+49|Fitted|25 MHz Mixed Signal Microcontroller with 8 KB Flash, 1024 B SRAM and 29 GPIOs, -40 to 85 degC, 40-pin QFN (RSB), Green (RoHS & no Sb/Br)|U9|MSP430F5132IRSBR|1|Texas Instruments|RSB0040B|
+50|Fitted|SC70 Analog Temperature Sensor with Class-AB Output, DCK0005A|U10|LMT87QDCKRQ1|1|Texas Instruments|DCK0005A|
+51|Not Fitted|CAP, CERM, 1000 pF, 50 V, +/- 10%, X7R, 0402|C25, C46, C47, C48|885012205061|0|Wurth Elektronik|0402|1000pF
+52|Not Fitted|RES, 10.0, 1%, 0.063 W, 0402|R17, R18|CRCW040210R0FKED|0|Vishay-Dale|0402|10.0
+53|Not Fitted|RES, 100, 1%, 0.1 W, 0402|R25, R28, R30|ERJ-2RKF1000X|0|Panasonic|0402|100
