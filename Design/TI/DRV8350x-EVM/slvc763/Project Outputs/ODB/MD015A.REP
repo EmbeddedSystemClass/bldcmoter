@@ -1,0 +1,136 @@
+*************************************************************
+FileName = MD015A.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\signal_layer_1\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\signal_layer_1\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\signal_layer_2\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\signal_layer_2\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m1_board_outline\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m1_board_outline\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m2_board_dimensions\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m2_board_dimensions\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m9_title_sheet\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m9_title_sheet\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m10_fab_notes\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m10_fab_notes\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m12_stackup\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\m12_stackup\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect208.6614x62.9921_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect68.8976x43.3071_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect72.8346x51.1811_135\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\s30_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect19.685x23.622_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect60x20_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect208.6614x62.9921_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect68.8976x43.3071_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect72.8346x51.1811_135\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\s30_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect19.685x23.622_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect212.5984x66.9291_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect72.8346x47.2441_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect76.7716x55.1181_135\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\s33.937_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect23.622x27.559_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect208.6614x62.9921_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect68.8976x43.3071_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect72.8346x51.1811_135\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\s30_315\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect19.685x23.622_45\features
+
+Generated File : C:\Users\a0226004\Documents\Altium\Projects\MD015A Design Files\Project Outputs\ODB\odb\symbols\rect60x20_315\features
+
